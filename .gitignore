@@ -1,0 +1,9 @@
+.metadata/
+.idea/
+out/
+
+# Java and Maven build output
+**/target/
+
+# Local environment files
+*.log
